@@ -1,0 +1,1 @@
+./pdcp.sh: line 10: ./: Is a directory
